@@ -1,0 +1,4 @@
+*.*.* => foo.bar.baz , anything.erfan.nodejs
+#.anything erfan.feedback.folan.anything // anything.anything.anything
+foo.bar.* // foo.bar.[erfan, nodejs, rabbit, mq]
+foo.bar.# // foo.bar.anything.anything.follan.bar
